@@ -4,7 +4,6 @@
 <ol class="bibliography">
 
 {% for link in site.data.experience.main %}
-{% for link in site.data.experience.main %}
 {% if link.type contains "education" %}
 
 <li>
