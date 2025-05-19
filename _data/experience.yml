@@ -1,13 +1,21 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
-    institution: University University
-    department: Lorem Ipsum
-    advisors: Jane Doe, John Doe # for type.education.
-    thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
+    degreepath: Ph.D. in Maching Learning and Image Analysis # for type.education.
+    institution: University of California San Francisco & University of California Berkeley
+    department: Bioengineering
+    advisors: Janine Lupo # for type.education.
+    thesis: "Predictive Modeling blah blah blah " # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2019 - Present
     notes: In Progress
+    
+    - type: education
+    degreepath: B.S. in Biomedical Engineering: Premedical  # for type.education.
+    institution: University of California Irvine
+    department: Biomedical Engineering
+    thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2015 - 2019
+    notes: Completed
     
   - type: job
     title: Example Job # for type.employment.
