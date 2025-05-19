@@ -1,16 +1,15 @@
 ---
 layout: homepage
----
+--- 
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Oluwaseun Adegbite is a PhD candidate in the UC Berkeley/UCSF-joint Bioengineering Program working in the Lupo Lab at UCSF. Her work lies within the application and development of predictive machine learning algorithms to improve glioma diagnosis and treatment.>
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-- **Digital Health Humanities:** I do things.
+- **Image Analysis:** image recognition, image generation, video captioning
+- **Machine Learning:** supervised-learning, predictive modeling, inference 
 
 {% include_relative _includes/education.md %}
 
